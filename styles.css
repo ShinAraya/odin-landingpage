@@ -79,6 +79,9 @@ li {
   padding: 8px 12px;
   cursor: pointer;
 }
+.Hero button:hover {
+  padding: 10px 14px
+}
 
 @media screen and (max-width: 480px) {
   .Hero {
